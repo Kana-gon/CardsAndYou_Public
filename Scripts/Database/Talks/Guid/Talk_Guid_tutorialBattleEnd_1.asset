@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3439be1897645fe4c8c1ce25cbfc9246, type: 3}
+  m_Name: Talk_Guid_tutorialBattleEnd_1
+  m_EditorClassIdentifier: 
+  talkName: Guid_tutorialBattleEnd_1
+  lineList:
+  - faseSprite: {fileID: 21300000, guid: c92066e7e4d031540b8845a9cfcc6c4c, type: 3}
+    choiceID: 
+    cutSceneID: 
+    Comment: 
+    lineText: "\u2026\u2026"
+  - faseSprite: {fileID: 21300000, guid: 45d21b895f813de4a869c983263a8068, type: 3}
+    choiceID: 
+    cutSceneID: 
+    Comment: 
+    lineText: "\u2026\u2026\u3042\u3001\u5371\u306A\u304B\u3063\u305F\u3001\u3067\u3059\u306D\u2026\u2026\u3002"
+  - faseSprite: {fileID: 21300000, guid: 9bb05791b35cd0440b3036db96b3f8fd, type: 3}
+    choiceID: 
+    cutSceneID: 
+    Comment: "\u3053\u3053\u5FC3\u914D\u3057\u3066\u308B\u7ACB\u3061\u7D75\u3092\u8FFD\u52A0"
+    lineText: "\u2026\u2026\u304A\u602A\u6211\u306F\u306A\u3044\u3067\u3059\u304B\uFF1F\n\u5C11\u3057\u3001\u898B\u305B\u3066\u304F\u3060\u3055\u3044\u2026\u2026"
+  - faseSprite: {fileID: 21300000, guid: 1464f88757270c543a43e696bd53ae7c, type: 3}
+    choiceID: 
+    cutSceneID: 
+    Comment: "\uFF08\u7ACB\u3061\u7D75\u304C\u898B\u3048\u306A\u304F\u306A\u308Bor\u4F55\u304B\u753B\u9762\u5916\u306B\u3044\u308B\u8868\u73FE\uFF09"
+    lineText: "\u2026\u2026\u3053\u3053\u306F\u2026\u2026\u5927\u4E08\u592B\u3002\n\u3053\u3053\u3082\u2026\u2026\u88CF\u306F\uFF1F\u2026\u2026\u50B7\u3001\u30CA\u30B7\u3002\n\u4E2D\u3082\u3001\u5927\u4E08\u592B\u3001\u3088\u3057\u3001\u3088\u3057\u2026\u2026"
+  - faseSprite: {fileID: 21300000, guid: 9bb05791b35cd0440b3036db96b3f8fd, type: 3}
+    choiceID: 
+    cutSceneID: 
+    Comment: 
+    lineText: "\u2026\u2026\u7279\u306B\u554F\u984C\u306F\u306A\u3055\u305D\u3046\u3067\u3059\u306D\u3002\n\u826F\u304B\u3063\u305F\u3067\u3059\u3002"
+  - faseSprite: {fileID: 0}
+    choiceID: 
+    cutSceneID: 
+    Comment: 
+    lineText: "\u672C\u5F53\u306B\u3001\u809D\u304C\u51B7\u3048\u307E\u3057\u305F\u3088\u3002\n\u3044\u304D\u306A\u308A\u6B8B\u57FA\u304C\u6B7B\u3093\u3067\u3001\u305D\u306E\u4E0A\u3067\u6226\u95D8\u306B\u306A\u3063\u305F\u306E\u3067\u2026\u2026"
+  - faseSprite: {fileID: 21300000, guid: 45d21b895f813de4a869c983263a8068, type: 3}
+    choiceID: 
+    cutSceneID: 
+    Comment: 
+    lineText: "\u2026\u2026\u3042\u3002\n\u8AAC\u660E\u3057\u3066\u306A\u304B\u3063\u305F\u3067\u3059\u306D\u3002"
+  - faseSprite: {fileID: 21300000, guid: 9bb05791b35cd0440b3036db96b3f8fd, type: 3}
+    choiceID: 
+    cutSceneID: 
+    Comment: 
+    lineText: "\u300E\u30D7\u30EC\u30A4\u30E4\u30FC\u300F\u306F\u3001\u3042\u306A\u305F\u306E\u6B8B\u57FA\u3067\u3059\u3002"
+  - faseSprite: {fileID: 0}
+    choiceID: 
+    cutSceneID: 
+    Comment: 
+    lineText: "\u30A2\u30EC\u306F\u30C0\u30E1\u30FC\u30B8\u3092\u8EAB\u4EE3\u308F\u308A\u3057\u3066\u304F\u308C\u308B\u3082\u306E\u3067\u3002\n\u30A2\u30EC\u304C\u3042\u308B\u9593\u3001\u3042\u306A\u305F\u306F\u5B89\u5168\u306B\u884C\u52D5\u3067\u304D\u308B\u2026\u2026\u3068\u3044\u3046\u3002"
+  - faseSprite: {fileID: 21300000, guid: 0d841d32bb37283419b06c0c2cfb38f8, type: 3}
+    choiceID: 
+    cutSceneID: 
+    Comment: 
+    lineText: "\u3048\u3048\u3001\u307E\u3042\u3001\u3082\u3046\u6B7B\u3093\u3058\u3083\u3044\u307E\u3057\u305F\u3057\u3002\n\u79C1\u306F\u30A2\u30EC\u3092\u3082\u3046\u4E00\u5EA6\u4F5C\u308B\u3053\u3068\u306F\u3067\u304D\u306A\u3044\u306E\u3067\u2026\u2026\n\u3042\u306A\u305F\u306B\u306F\u5371\u967A\u306A\u307E\u307E\u3053\u3053\u3067\u904E\u3054\u3057\u3066\u3082\u3089\u3046\u3053\u3068\u306B\u3001\u306A\u3063\u3061\u3083\u3044\u307E\u3059\u306D\u3002"
+  - faseSprite: {fileID: 0}
+    choiceID: 
+    cutSceneID: 
+    Comment: "\u6C57"
+    lineText: "\u2026\u2026\u3044\u3001\u4E00\u7DD2\u306B\u9811\u5F35\u308A\u307E\u3057\u3087\u3046\u306D\u3002"
+  - faseSprite: {fileID: 0}
+    choiceID: 
+    cutSceneID: tutorialEnd_titleLogoPerformance
+    Comment: 
+    lineText: "\u79C1\u3068\u3001\u3042\u306A\u305F\u3067\u2026\u2026\u3002"

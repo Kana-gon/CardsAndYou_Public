@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3439be1897645fe4c8c1ce25cbfc9246, type: 3}
+  m_Name: Talk_Guid_bringResource_NotEnough_1
+  m_EditorClassIdentifier: 
+  talkName: Guid_bringResource_NotEnough_1
+  lineList:
+  - faseSprite: {fileID: 21300000, guid: 9bb05791b35cd0440b3036db96b3f8fd, type: 3}
+    choiceID: 
+    lineText: "\u304A\u304A\u3002\u3082\u3046\u6301\u3063\u3066\u304D\u305F\u3093\u3067\u3059\u304B\u3002\n\u65E9\u3044\u3067\u3059\u306D\u3002"
+  - faseSprite: {fileID: 21300000, guid: 45d21b895f813de4a869c983263a8068, type: 3}
+    choiceID: 
+    lineText: "\u2026\u2026\u3042\u3001\u3072\u3068\u3064\u8A00\u3044\u5FD8\u308C\u3066\u3044\u307E\u3057\u305F\u3002"
+  - faseSprite: {fileID: 21300000, guid: 0d841d32bb37283419b06c0c2cfb38f8, type: 3}
+    choiceID: 
+    lineText: "\u305D\u308C\u2026\u2026\u300E\u30EA\u30BD\u30FC\u30B9\u300F\u3001\u5C11\u306A\u304F\u3068\u30823\u500B\u306F\u6398\u3063\u3066\u304D\u3066\u307B\u3057\u3044\u3093\u3067\u3059\u3088\u306D\u3002\n3\u500B\u3042\u308C\u3070\u3001\u4F5C\u308C\u308B\u3082\u306E\u304C\u3042\u308B\u306E\u3067\u3002"
+  - faseSprite: {fileID: 21300000, guid: 0d841d32bb37283419b06c0c2cfb38f8, type: 3}
+    choiceID: 
+    lineText: "\u2026\u2026\u305D\u3093\u306A\u306B\u6012\u3089\u306A\u3044\u3067\u304F\u3060\u3055\u3044\u3002\n\u79C1\u3060\u3063\u3066\u30DF\u30B9\u304F\u3089\u3044\u3057\u307E\u3059\u3002\n\u4EBA\u9593\u3067\u306F\u306A\u3044\u3068\u306F\u3044\u3048\u3001\u4E00\u5FDC\u751F\u304D\u7269\u3067\u3059\u304B\u3089\u3002"
+  - faseSprite: {fileID: 21300000, guid: 38aef5a23b671e5468198785b16161d9, type: 3}
+    choiceID: 
+    lineText: "\u2026\u2026\u2026\u2026\n\u2026\u2026\u3054\u3081\u3093\u306A\u3055\u3044\u3002"

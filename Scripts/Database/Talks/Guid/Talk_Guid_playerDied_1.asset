@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3439be1897645fe4c8c1ce25cbfc9246, type: 3}
+  m_Name: Talk_Guid_playerDied_1
+  m_EditorClassIdentifier: 
+  talkName: Guid_playerDied_1
+  lineList:
+  - faseSprite: {fileID: 21300000, guid: 362804fbd5d60f0479af449a58fb05aa, type: 3}
+    choiceID: 
+    cutSceneID: 
+    Comment: 
+    lineText: "\u2026\u2026\uFF01\uFF1F"
+  - faseSprite: {fileID: 0}
+    choiceID: 
+    cutSceneID: 
+    Comment: 
+    lineText: "\u3048\u2026\u306A\u2026\u2026\u3063\uFF01\uFF1F"
+  - faseSprite: {fileID: 21300000, guid: c92066e7e4d031540b8845a9cfcc6c4c, type: 3}
+    choiceID: 
+    cutSceneID: enemyActivate
+    Comment: 
+    lineText: "\u304D\u3063\u2026\u2026\u5371\u967A\u3067\u3059\uFF01\n\u69CB\u3048\u3066\u304F\u3060\u3055\u3044\uFF01"

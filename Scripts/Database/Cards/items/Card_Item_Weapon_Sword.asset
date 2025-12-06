@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d33a8ff41a11ffb42b196f1a02a88320, type: 3}
+  m_Name: Card_Item_Weapon_Sword
+  m_EditorClassIdentifier: 
+  cardName: "\u30EA\u30BD\u30FC\u30B9\u5263"
+  cardID: item_weapon_sword
+  cardType: item
+  cardText: "\u9EC4\u8272\u304F\u3066\u67D4\u3089\u304B\u3044\u3001\u3088\u308F\u3063\u3061\u3044\u5263\u3002\n\u898B\u305F\u76EE\u306F\u3061\u3083\u3093\u3068\u5263\u3060\u304C\u3001\u65AC\u308A\u3064\u3051\u308B\u306E\u306B\u306F\u5411\u3044\u3066\u3044\u306A\u3044\u3002\n\u9AD8\u7D1A\u306A\u3082\u306E\u304C\u3042\u308B\u3068\u3044\u3046\u5642\u3082\u3002"
+  cardIllast: {fileID: 21300000, guid: 8aa44602f2ad0ed41a9666c0fac25ee2, type: 3}
+  childCardTypeBlackList:
+  - collectPoint
