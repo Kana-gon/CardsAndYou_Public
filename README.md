@@ -16,7 +16,7 @@ Unity (C#)
 -	Prefab / Prefab Variant（UI・カードの共通化）
 -	Animator（Animation Clip / State Machine）
 ## 目的
--	Unityの機能に実際に触れながら学習を行うことを目的とし、ScriptableObject、Animator、Prefab Variant など多様な機能に触れつつ、拡張性や設計を意識した開発を行いました。
+-	本作品は自分にとって初めてのUnity開発であり、Unityの機能に実際に触れながら学習を行うことを目的として製作しました。ScriptableObject、Animator、Prefab Variant など多様な機能に触れつつ、拡張性や設計を意識した開発を行いました。
 -	また、「盛り込みたい」と思った要素は妥協せず、必要な技術があれば学びながら、時間をかけて実装する方針で制作を進めています。
 ## 工夫した点
 -	ScriptableObjectを利用した、コードレスな要素追加が可能な設計(カード、会話イベント、クラフトレシピ)
