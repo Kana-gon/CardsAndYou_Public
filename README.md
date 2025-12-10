@@ -6,7 +6,7 @@ Cards And You
 あらゆるオブジェクトのフォーマットをカードに絞る事で相互作用の幅を広げる、新しいタイプのクラフト・ローグライトゲーム（予定）です。現在プロトタイプとして、チュートリアルのみ完成しています。
 以下のデモURLからプレイ可能です。
 ## デモURL
-ゲームプレイ：https://unityroom.com/games/cardsandyou
+ゲームのプレイ(unityroom)：https://unityroom.com/games/cardsandyou
 
 プレイ動画：https://youtu.be/E2clBuf111I
 ## 開発環境
